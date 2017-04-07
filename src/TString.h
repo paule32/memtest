@@ -1,7 +1,7 @@
 #ifndef TSTRING_H_
 #define TSTRING_H_
 
-#include <TObject.h>
+#include "TObject.h"
 
 class TString: public TObject
 {
